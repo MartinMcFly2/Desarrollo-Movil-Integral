@@ -16,7 +16,7 @@ namespace P1_Inversores
         protected override void OnStart()
         {
         }
-
+//Esta modificacion la hizo Martin
         protected override void OnSleep()
         {
         }
